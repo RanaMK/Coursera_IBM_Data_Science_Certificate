@@ -5,6 +5,7 @@
 
 In the city of Toronto, we are looking to open a new restaurant so the problem is where to open this restaurant. It should be beside an interesting place with a lot of visitors. I would think of opening the restaurant beside a university, a gym or an airport. Also, it should not be a quiet place like a residential place for example to not making noise to the neighbors.
 I will try to explore Toronto venues using Foursquare and try to get the coordinates of the most important venues that I would like to open the restaurant around. 
+Finally, this project is specially designed to people who would like to open their own business in the food market like restaurants and cafes.
 
 ## Data
 
